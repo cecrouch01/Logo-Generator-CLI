@@ -1,0 +1,5 @@
+<svg class='Circle' width='300' height='200' xmlns='http://www.w3.org/2000/svg'>
+    <circle cx='50%' cy='50%' r='35%' fill='Green'/>
+    <text x='80' y='125' font-size='70px' fill='Black'>CEC</text>
+    </svg>
+    
