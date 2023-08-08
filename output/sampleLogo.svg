@@ -1,0 +1,5 @@
+<svg class='Triangle' width='300' height='200' xmlns='http://www.w3.org/2000/svg'>
+    <polygon points='150, 5 5,195 295, 195' fill='green'/>
+        <text x='80' y='160' font-size='70px' fill='black'>CEC</text>
+    </svg>
+    
