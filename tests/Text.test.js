@@ -1,4 +1,4 @@
-const Text = require('./text.js')
+const Text = require('../lib/Text.js')
 
 //testing to see if I am creating three characters
 describe('Text', () => {
