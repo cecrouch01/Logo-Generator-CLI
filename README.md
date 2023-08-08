@@ -14,7 +14,7 @@
   To install this program use git clone to bring the files to your own computer. 
 
   ## Usage
-  To use the application go to the folder that it has been cloned under, type npm i into the command line, type node index.js into the command line, and then fill out the questions. Once you are done you will have a svg file for you to use in the svg file. A video of the application being used can be seen here: 
+  To use the application go to the folder that it has been cloned under, type npm i into the command line, type node index.js into the command line, and then fill out the questions. Once you are done you will have a svg file for you to use in the svg file. A video of the application being used can be seen here: https://drive.google.com/file/d/1azFx1C04ONMdGP9-RHpvRzgW5TQCshd8/view
 
   ## Contributing Credits
   I used the week 10 Mini-Project as a guide to creating this application. I used W3 and Geeks for Geeks to learn about SVG files and how to create them. I also used Kevin Powell's video series "A beginners guide to SVG" to understand SVG's https://www.youtube.com/watch?v=ZJSCl6XEdP8. 
